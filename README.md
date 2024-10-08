@@ -1,2 +1,2 @@
-# ProyectoFinal
-Emiliano Fernández | Luis Fleitas
+# Blackjack en JAVA. 
+## Proyecto final programacion.
